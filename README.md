@@ -1,3 +1,4 @@
 ## Hi there 👋
 
-![Slavyanchiks's Github stats]("https://github-readme-stats.vercel.app/api?username=Slavyanchiks&show_icons=true&theme=transparent")
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Slavyanchiks&show_icons=true&hide_title=true&count_private=true&theme=dark)
+
