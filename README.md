@@ -4,13 +4,13 @@
   <img src="assets/gopher.png" width="300" align="right" style="max-width: 100%; height: auto;">
 </div>
 
-### *Personal details:*
+<h3 style="display: flex;"><i>Personal details</i></h3>
 - name: **Vyacheslav Serov**
 - age: **20**
 - sex: **male**
 - country: **Russia**
 
-### *Technologies:*
+### *Technologies*
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
@@ -25,7 +25,7 @@
 ![NATS](https://img.shields.io/badge/-NATS.io-27AAE1?style=flat&logo=natsdotio&logoColor=white)
 
 
-### *Github stats:*
+### *Github stats*
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Slavyanchiks&show_icons=true&hide_title=true&count_private=true&theme=transparent)
 
 ### *Contact me*
