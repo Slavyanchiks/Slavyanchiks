@@ -1,7 +1,9 @@
 ## HELLO !!
 
-<img src="assets/gopher.png" width="300" align="right" style="z-index: 10;">
-  
+<div style="display: flex; justify-content: center;">
+  <img src="assets/gopher.png" width="300" align="right" style="max-width: 100%; height: auto;">
+</div>
+
 ### *Personal details:*
 - name: **Vyacheslav Serov**
 - age: **20**
@@ -21,6 +23,7 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![MD](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![NATS](https://img.shields.io/badge/-NATS.io-27AAE1?style=flat&logo=natsdotio&logoColor=white)
+
 
 ### *Github stats:*
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Slavyanchiks&show_icons=true&hide_title=true&count_private=true&theme=transparent)
