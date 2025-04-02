@@ -1,10 +1,8 @@
 ## HELLO !!
 
-<div style="display: flex; justify-content: center;">
-  <img src="assets/gopher.png" width="300" align="right" style="max-width: 100%; height: auto;">
-</div>
+<img src="assets/gopher.png" align="right" style="display: flex; width: 300px; max-width: 40%; height: auto;">
 
-<h3 style="display: flex;"><i>Personal details</i></h3>
+### *Personal details*
 - name: **Vyacheslav Serov**
 - age: **20**
 - sex: **male**
