@@ -1,4 +1,4 @@
-## HELLO !!
+## HI, there! 👋
 
 <img src="assets/gopher.png" align="right" style="display: flex; width: 300px; max-width: 40%; height: auto;">
 
@@ -15,7 +15,7 @@
 ![JetBrains](https://img.shields.io/badge/-JetBrains-000000?style=flat&logo=jetbrains&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/-Obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white)
 <br>
-![Golang](https://img.shields.io/badge/golang-00ADD8?&style=flat&logo=go&logoColor=white)
+![Golang](https://img.shields.io/badge/Golang-00ADD8?&style=flat&logo=go&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-2689c8?style=flat&logo=postgresql&logoColor=white)
 ![DOTNET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
